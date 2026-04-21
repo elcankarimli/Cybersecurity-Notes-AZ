@@ -1,7 +1,5 @@
 # 🛡️ 1-ci Gün: Etik Hakerliyin Əsasları (Foundation)
 
-Bu gün kibertəhlükəsizlik dünyasına ilk addımımı atdım və etik hakerliyin fundamental prinsiplərini öyrəndim.
-
 ## 🧐 Etik Hakerlik Nədir?
 Etik hakerlik, zərərli hakerlərin istifadə edə biləcəyi hücum növlərini simulyasiya etməkdir. Onu qanunsuz hakerlikdən ayıran ən vacib fərq: **hədəfin icazəsi ilə** və sistemin təhlükəsizliyini artırmaq məqsədilə həyata keçirilməsidir.
 
