@@ -1,6 +1,5 @@
 # 🌐 2-ci Gün: Kompüter Şəbəkələri (Ümumi)
 
-Kompüter şəbəkələrini anlamaq kibertəhlükəsizlik və ümumiyyətlə İT sahəsində əsasdır. Kompüter şəbəkələrini anlamaq üçün strukturlaşdırılmış bir yanaşma:
 
 ## 🏗️ Kompüter Şəbəkələrinin Əsasları
 
