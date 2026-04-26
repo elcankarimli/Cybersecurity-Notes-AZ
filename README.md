@@ -1,4 +1,4 @@
 # Cybersecurity-Notes-AZ
-# Kibertəhlükəsizlik(etik hakerlik) 🛡️
+# Kibertəhlükəsizlik(etik hakerlik) 🛡️AZFREECODE
 
 Bu repozitoriya kibertəhlükəsizlik sahəsində öyrəndiyim mövzuları və etik hakerlik prinsiplərini əhatə edən Azərbaycan dilində qeydlər toplusudur.
