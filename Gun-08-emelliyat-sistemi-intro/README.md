@@ -1,4 +1,6 @@
-📅 Gün 8: Əməliyyat Sistemləri – Təməldən İdarəetməyə
+                                                               📅 Gün 8: Əməliyyat Sistemləri – Təməldən İdarəetməyə
+
+
 🌟 Giriş: Görünməz Qəhrəmanla Tanışlıq
 Sən hər gün telefonunu və ya noutbukunu açırsan və hər şey "sadəcə işləyir": proqramlar açılır, fayllar əlçatan olur, musiqi çalınır. Bəs bütün bunları mümkün edən nədir?
 
