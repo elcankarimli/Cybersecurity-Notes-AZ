@@ -1,4 +1,4 @@
-                                                               📅 Gün 8: Əməliyyat Sistemləri – Təməldən İdarəetməyə
+📅 Gün 8: Əməliyyat Sistemləri – Təməldən İdarəetməyə
 
 
 🌟 Giriş: Görünməz Qəhrəmanla Tanışlıq
