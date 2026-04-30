@@ -1,7 +1,7 @@
 
 ---
 
-# 🐧 Linux Kursu: Gün 2 - Sistem Analizi və Disk İdarəetməsi
+# 🐧 Linux Kursu: Hissə 2 - Sistem Analizi və Disk İdarəetməsi
 
 Bu bölmədə Linux sisteminin daxili strukturunu anlamaq, işlədiyimiz mühiti müəyyən etmək və disk resurslarını effektiv idarə etmək üçün lazım olan fundamental əmrləri öyrənəcəyik
 
